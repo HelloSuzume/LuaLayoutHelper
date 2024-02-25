@@ -1,3 +1,7 @@
+### 已废弃
+
+nirenr 大佬写的布局助手的源代码经过了我的修改之后变得十分的混乱和复杂，因此我决定后期重新编写
+
 ### LuaLayoutHelper
 
 本软件在 [AndroLua_pro](https://github.com/nirenr/AndroLua_pro/) 自带的布局助手的基础上进行修改，使其更加易用，并赋予了 xml 布局的基础修改功能
